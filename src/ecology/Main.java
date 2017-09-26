@@ -11,7 +11,6 @@ import ecology.animals.Animal;
 import ecology.animals.AnimalEvent;
 import ecology.resource.Resource;
 import ecology.resource.ResourceEvent;
-import ecology.weather.WeatherEvent;
 import ecology.world.World;
 
 public class Main
