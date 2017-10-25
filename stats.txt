@@ -1,6 +1,6 @@
 GAME ENDED
 STATS:
-	Days: 33
-	Number of births: 3
-	Number of Plants eaten: 14
-	Number of Animals that rose from the dead: 0 (0 of which were zombies)
+	Days: 60
+	Number of births: 4
+	Number of Plants eaten: 17
+	Number of Animals that rose from the dead: 4 (2 of which were zombies)
